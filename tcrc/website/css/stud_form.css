@@ -1,0 +1,26 @@
+
+/*---------CSS that pertains only to studentform.php---*/
+
+.studentform-wrap{
+	width:50%;
+}
+
+.label {
+  font-weight: bolder;
+}
+
+.help-block{
+  color: red;
+  padding: 2px;
+}
+
+.group {
+	display: inline-flex;
+  padding: 15px;
+}
+
+
+input{
+	margin-left: 10px;
+	margin-right: 10px;
+}
